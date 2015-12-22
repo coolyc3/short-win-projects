@@ -1,0 +1,10 @@
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.xml
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Resources.resources
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.GenerateResource.Cache
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.xml
+C:\Users\Yonaton\Documents\Visual Studio 2012\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
